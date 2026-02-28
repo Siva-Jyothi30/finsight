@@ -1,0 +1,19 @@
+# Environment — never commit API keys
+.env
+
+# Dataset — too large for GitHub (use Kaggle link in README)
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Streamlit
+.streamlit/

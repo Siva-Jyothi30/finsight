@@ -1,0 +1,21 @@
+# FinSight - Personal Finance Analytics Agent
+# Python 3.11+
+#
+# Install with:  pip install -r requirements.txt
+
+# Core data stack
+pandas==2.3.3
+
+# Interactive visualizations
+plotly==6.5.2
+
+# Web app UI
+streamlit==1.54.0
+
+# AI agent layer
+langchain==1.2.10
+langchain-core==1.2.14
+langchain-groq==1.1.2
+
+# API key management
+python-dotenv==1.2.1
